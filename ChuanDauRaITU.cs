@@ -21,5 +21,6 @@ namespace Mytikas.classes
         public string I_GiangVien { get; set; }
         public string T_GiangVien { get; set; }
         public string U_GiangVien { get; set; }
+public string U_Checker { get; set; }
     }
 }
